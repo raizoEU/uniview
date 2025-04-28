@@ -26,3 +26,4 @@ npm run dev
 ```
 http://localhost:3000
 
+https://uniview2002.netlify.app/  (THE CURRENT APP)
