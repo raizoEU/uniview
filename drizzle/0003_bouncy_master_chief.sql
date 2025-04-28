@@ -1,0 +1,2 @@
+ALTER TABLE `studentstay_users` DROP INDEX `studentstay_users_email_unique`;--> statement-breakpoint
+ALTER TABLE `studentstay_users` ADD CONSTRAINT `studentstay_users_email_unique` UNIQUE(`email`,`id`);

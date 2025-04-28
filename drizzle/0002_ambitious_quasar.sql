@@ -1,0 +1,1 @@
+ALTER TABLE `studentstay_users` DROP INDEX `studentstay_users_id_unique`;

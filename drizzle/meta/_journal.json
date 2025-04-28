@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "singlestore",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "1",
+      "when": 1740163269883,
+      "tag": "0000_green_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "1",
+      "when": 1740179742853,
+      "tag": "0001_moaning_cardiac",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "1",
+      "when": 1740179774530,
+      "tag": "0002_ambitious_quasar",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "1",
+      "when": 1740179884849,
+      "tag": "0003_bouncy_master_chief",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "1",
+      "when": 1740179969659,
+      "tag": "0004_cute_iron_lad",
+      "breakpoints": true
+    }
+  ]
+}
