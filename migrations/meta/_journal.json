@@ -1,0 +1,90 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1740184532745,
+      "tag": "0000_round_shaman",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1740188794412,
+      "tag": "0001_bright_mandrill",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1740189018270,
+      "tag": "0002_fresh_retro_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1740322507588,
+      "tag": "0003_sturdy_doctor_faustus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1740323041930,
+      "tag": "0004_wooden_blue_marvel",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1740323425038,
+      "tag": "0005_past_speed",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1740323742820,
+      "tag": "0006_sleepy_bedlam",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1740540000689,
+      "tag": "0007_misty_blindfold",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1740592672423,
+      "tag": "0008_groovy_juggernaut",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1740670894809,
+      "tag": "0009_gray_sersi",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1740791686948,
+      "tag": "0010_overrated_praxagora",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1740791977276,
+      "tag": "0011_chubby_catseye",
+      "breakpoints": true
+    }
+  ]
+}
